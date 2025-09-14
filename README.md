@@ -3,6 +3,12 @@
 A foundational ML project demonstrating **Exploratory Data Analysis (EDA)** through statistical analysis, data visualization, and outlier detection using Python. This toolkit helps analyze both numerical and categorical data from any dataset using intuitive logic and clean visualizations.
 
 ---
+## Dataset
+
+The project uses the **Housing.csv** dataset for demonstration, placed in the `data/` folder.  
+You can replace it with any other dataset of your choice by updating the file path in the code.  
+
+Source: [Kaggle Housing Dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)  
 
 ## Project Overview
 
